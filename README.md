@@ -23,10 +23,13 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 <!-- <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
  -->
 
- email: 
- macosta2015@my.fit.edu
- Phone number: 
+ 
+ 
+<!--  Phone number: 
  2103022291
+ 
+ email: 
+ macosta2015@my.fit.edu -->
  
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
