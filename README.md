@@ -1,9 +1,31 @@
 ### Hi there 👋,
 
+<h2 align="center">
+I am a Softwarewe 💻 and Mechanical Engineer 🚀
+</h2> 
+
+
+
 ### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor inc CS. 
 
-**macosta2015/macosta2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- **macosta2015/macosta2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
+ 
+ LinkedIn profile:
+ ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+ 
+ <img src="{}" />
+ 
+ https://www.linkedin.com/in/mario-acosta-b4337512a/
+ 
+ email: 
+ macosta2015@my.fit.edu
+ 
+ Phone number: 
+ 2103022291
+ 
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
