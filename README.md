@@ -25,7 +25,7 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 
 <!-- <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
  -->
-<a href="https://marioacosta.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://marioacosta.medium.com/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 
  email: 
  macosta2015@my.fit.edu
