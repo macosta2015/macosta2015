@@ -1,7 +1,7 @@
 ### Hi there 👋,
 
 <h2 align="center">
-I am a softwarewe 💻 and mechanical engineer 🚀
+I am a Softwarewe 💻 and Mechanical Engineer 🚀
 </h2> 
 
 
