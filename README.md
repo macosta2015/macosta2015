@@ -9,8 +9,11 @@
  LinkedIn profile:
  https://www.linkedin.com/in/mario-acosta-b4337512a/
  
- email: macosta2015@my.fit.edu
- Phone number: 2103022291
+ email: 
+ macosta2015@my.fit.edu
+ 
+ Phone number: 
+ 2103022291
  
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
