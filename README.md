@@ -1,7 +1,7 @@
 ### Hi there 👋,
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I am a softwarewe 💻 and mechanical engineer
 </h2> 
 
 
