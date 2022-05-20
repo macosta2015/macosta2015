@@ -2,8 +2,17 @@
 
 ### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor inc CS. 
 
-**macosta2015/macosta2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- **macosta2015/macosta2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
+ 
+ LinkedIn profile:
+ https://www.linkedin.com/in/mario-acosta-b4337512a/
+ 
+ email: macosta2015@my.fit.edu
+ Phone number: 2103022291
+ 
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
