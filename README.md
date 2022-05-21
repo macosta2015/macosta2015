@@ -9,8 +9,10 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 ### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor inc CS. 
 
 
-# Work Day Scheduler
-My favorite search engine is [Duck Duck Go](https://macosta2015.github.io/FullStackHW6/).
+## Projects
+#### Work Day Scheduler
+Work day scheduler [Github](https://github.com/macosta2015/FullStackHW6).
+Work day scheduler [webpage](https://macosta2015.github.io/FullStackHW6/).
 
 # test
 
