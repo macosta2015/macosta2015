@@ -22,7 +22,7 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 
 <a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
  
-<a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
+<!-- <a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Mario Acosta | Gitgub" width="21px"/></a> -->
 
  <p>.  </p>
  
