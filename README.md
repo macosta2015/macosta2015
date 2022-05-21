@@ -26,11 +26,14 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 
  <p>.  </p>
  
- Phone number: 
- 2103022291
  
- email: 
- macosta2015@my.fit.edu
+ ### Reach out: 
+ 
+-  email: macosta2015@my.fit.edu
+-  phone number: 2103022291
+
+ 
+
  
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
