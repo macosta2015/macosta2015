@@ -27,7 +27,7 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
  
 ### 🤝 Connect with me:
 
-<p>  
+
 <a href="https://www.linkedin.com/in/mario-acosta-b4337512a/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/linkedin.svg" alt="Mario Acosta  | LinkedIn" width="21px"/></a>
 
 <a href="https://marioacosta.medium.com/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/medium.svg" alt="Mario Acosta  | Medium" width="21px"/></a>
@@ -35,8 +35,8 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 <a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
  
 <!-- <a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Mario Acosta | Gitgub" width="21px"/></a> -->
-</p>
-<!--  <p>.  </p> -->
+
+ <p>.  </p>
  
  
  ### Reach out: 
