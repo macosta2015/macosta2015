@@ -34,8 +34,7 @@ I am a Softwarewe 💻 and Mechanical Engineer 🚀
 
  
 
-
-## Bootcamp projects
+### 🔭 Bootcamp Projects:
  
 
 
