@@ -8,7 +8,8 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 ### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor inc CS. 
 
- 
+
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 
