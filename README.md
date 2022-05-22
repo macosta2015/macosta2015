@@ -50,24 +50,8 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
  
  
-### 🤝 Connect with me:
 
-
-<a href="https://www.linkedin.com/in/mario-acosta-b4337512a/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/linkedin.svg" alt="Mario Acosta  | LinkedIn" width="21px"/></a>
-
-<a href="https://marioacosta.medium.com/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/medium.svg" alt="Mario Acosta  | Medium" width="21px"/></a>
-
-<a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
  
-<!-- <a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Mario Acosta | Gitgub" width="21px"/></a> -->
-
- <p> .  </p>
- 
- 
- ### Reach out: 
- 
--  email: macosta2015@my.fit.edu
--  phone number: 2103022291
 
  
 
@@ -81,3 +65,22 @@ I am a Software 💻 and Mechanical Engineer 🚀
 ![Github stats](https://github-readme-stats.vercel.app/api?username=macosta2015&count_private=true&show_icons=true&theme=radical)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macosta2015&show_icons=true&theme=radical)
+
+
+### 🤝 Connect with me:
+
+
+<a href="https://www.linkedin.com/in/mario-acosta-b4337512a/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/linkedin.svg" alt="Mario Acosta  | LinkedIn" width="21px"/></a>
+
+<a href="https://marioacosta.medium.com/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/medium.svg" alt="Mario Acosta  | Medium" width="21px"/></a>
+
+<a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
+ 
+<!-- <a href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/instagram.svg" alt="Mario Acosta | Gitgub" width="21px"/></a> -->
+
+ <p> .  </p>
+ 
+  ### Reach out: 
+ 
+-  email: macosta2015@my.fit.edu
+-  phone number: 2103022291
