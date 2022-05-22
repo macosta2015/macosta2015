@@ -19,9 +19,9 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 <p align="center">
   <img 
-    width="800"
+    width="1200"
     height="800"
-    src="https://github.com/macosta2015/macosta2015/blob/main/images/WorkDaySchedulerSmaller.jpg"
+    src="https://github.com/macosta2015/macosta2015/blob/main/images/WorkDayScheduler3.png"
   >
 </p>
 
