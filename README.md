@@ -9,6 +9,15 @@ I am a Software 💻 and Mechanical Engineer 🚀
 ### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor inc CS. 
 
 
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=macosta2015&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macosta2015&show_icons=true&theme=radical)
+
+
 ### 🔭 Bootcamp Projects:
 
 #### Work Day Scheduler
@@ -42,29 +51,6 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 
 
-
-<!-- **macosta2015/macosta2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
- 
- 
-
- 
- 
-
- 
-
- 
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=macosta2015&count_private=true&show_icons=true&theme=radical)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macosta2015&show_icons=true&theme=radical)
 
 
 ### 🤝 Connect with me:
