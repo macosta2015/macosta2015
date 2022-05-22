@@ -19,8 +19,8 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="500"
+    height="500"
     src="https://github.com/macosta2015/macosta2015/blob/main/images/WorkDaySchedulerSmaller.jpg"
   >
 </p>
@@ -28,8 +28,8 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="500"
+    height="500"
     src="https://github.com/macosta2015/macosta2015/blob/main/images/CryptoCheck.png"
   >
 </p>
