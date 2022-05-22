@@ -21,7 +21,7 @@ I am a Software 💻 and Mechanical Engineer 🚀
   <img 
     width="300"
     height="300"
-    src="https://picsum.photos/300/300"
+    src="https://github.com/macosta2015/macosta2015/blob/main/images/WorkDaySchedulerSmaller.jpg"
   >
 </p>
 
