@@ -30,7 +30,7 @@ I am a Software 💻 and Mechanical Engineer 🚀
   <img 
     width="300"
     height="300"
-    src="https://github.com/macosta2015/macosta2015/blob/main/images/WorkDaySchedulerSmaller.jpg"
+    src="https://github.com/macosta2015/macosta2015/blob/main/images/CryptoCheck.png"
   >
 </p>
 
