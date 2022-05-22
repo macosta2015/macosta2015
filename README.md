@@ -14,8 +14,16 @@ I am a Software 💻 and Mechanical Engineer 🚀
 <p> Work day scheduler [Github](https://github.com/macosta2015/FullStackHW6). </p>
 <p> Work day scheduler [webpage](https://macosta2015.github.io/FullStackHW6/). </p>
 
+<!-- Another way to add an image: -->
+<!-- ![WorkDayScheduler2!](images/WorkDaySchedulerSmaller.jpg) -->
 
-![WorkDayScheduler2!](images/WorkDaySchedulerSmaller.jpg)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://picsum.photos/300/300"
+  >
+</p>
 
 
 #### Crypto-Check
