@@ -18,7 +18,9 @@ I am a Software 💻 and Mechanical Engineer 🚀
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macosta2015&show_icons=true&theme=radical)
 
 
-### 🔭 Bootcamp Projects:
+
+### 🔭 Repositories and some of my Projects:
+<a align="center" href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
 
 #### Work Day Scheduler
 <p> Work day scheduler [Github](https://github.com/macosta2015/FullStackHW6). </p>
