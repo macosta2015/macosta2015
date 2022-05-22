@@ -16,9 +16,6 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 ![WorkDayScheduler1](images/WorkDayScheduler.jpg)
 
-![WorkDayScheduler2](.images/WorkDayScheduler.jpg)
-
-
 
 #### Crypto-Check
 <p> Crypto-Check [Github](https://github.com/AngelMond/Crypto-Check). </p>
