@@ -13,7 +13,8 @@ I am a Software 💻 and Mechanical Engineer 🚀
 #### Work Day Scheduler
 <p> Work day scheduler [Github](https://github.com/macosta2015/FullStackHW6). </p>
 <p> Work day scheduler [webpage](https://macosta2015.github.io/FullStackHW6/). </p>
-![WorkDayScheduler!](macosta2015/images/WorkDayScheduler.jpg)
+
+![WorkDayScheduler1](images/WorkDayScheduler.jpg)
 
 
 #### Crypto-Check
