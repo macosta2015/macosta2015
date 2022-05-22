@@ -20,7 +20,9 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 
 ### 🔭 Repositories and some of my Projects:
+<p>
 <a align="center" href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
+</p>
 
 #### Work Day Scheduler
 <p> Work day scheduler [Github](https://github.com/macosta2015/FullStackHW6). </p>
