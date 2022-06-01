@@ -58,6 +58,11 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 ### Resume: 
 
+<a align="center" href="https://github.com/macosta2015?tab=repositories"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
+
+
+<p> Click on the Github icon!  </p>
+
 ### 🤝 Connect with me:
 
 
