@@ -60,7 +60,7 @@ I am a Software 💻 and Mechanical Engineer 🚀
 <a align="center" href="https://drive.google.com/file/d/15hepHCvVzUCOb4y8ia93A7rGk-QsjfnF/view">📄</a>
 
 
-<a align="center" href="https://drive.google.com/file/d/15hepHCvVzUCOb4y8ia93A7rGk-QsjfnF/view"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github2.svg" alt="Mario Acosta | Gitgub" width="21px"/></a>
+<!-- <a align="center" href="https://drive.google.com/file/d/15hepHCvVzUCOb4y8ia93A7rGk-QsjfnF/view"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/github2.svg" alt="Mario Acosta | Gitgub" width="21px"/></a> -->
 
 
 <p> Click on my resume!  </p>
