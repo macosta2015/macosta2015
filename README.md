@@ -57,7 +57,7 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 
 ### Resume: 
-<a align="center" href="https://drive.google.com/file/d/15hepHCvVzUCOb4y8ia93A7rGk-QsjfnF/view"> 💻​💼 <- Click for my resume! </a>
+<a align="center" href="https://drive.google.com/file/d/15hepHCvVzUCOb4y8ia93A7rGk-QsjfnF/view"> 💻​💼 Click for my resume! </a>
 
 
 ### 🤝 Connect with me:
