@@ -11,7 +11,6 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=macosta2015&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=macosta2015&count_private=true&show_icons=true&theme=radical)
 
@@ -57,7 +56,7 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 
 
-
+### Resume: 
 
 ### 🤝 Connect with me:
 
