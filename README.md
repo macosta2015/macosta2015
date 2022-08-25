@@ -61,8 +61,6 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 
 ### 🤝 Connect with me:
-
-
 <a href="https://www.linkedin.com/in/mario-acosta-b4337512a/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/linkedin.svg" alt="Mario Acosta  | LinkedIn" width="21px"/></a>
 
 <a href="https://marioacosta.medium.com/"><img align="left" src="https://raw.githubusercontent.com/macosta2015/macosta2015/main/images/medium.svg" alt="Mario Acosta  | Medium" width="21px"/></a>
