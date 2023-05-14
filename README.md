@@ -6,7 +6,7 @@ I am a Software 💻 and Mechanical Engineer 🚀
 
 
 
-### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor inc CS. I am passionate of using my engineer skills to solve the wolrd problems.
+### My name is Mario Acosta, and I am a Mexican living in Miami. I graduated as a Mechanical Engineer with a minor in CS. I am passionate of using my engineer skills to solve the world problems.
 
 
   
